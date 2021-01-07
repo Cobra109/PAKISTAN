@@ -49,7 +49,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
            ▄︻┻═┳一 ♥️DIYA FFIcIąL♥️----------🔴
-           ▄︻┻═┳一 ♥️♥️ DIY - cL๏Йєr  ♥️♥️----🔴🔴
+           ▄︻┻═┳一 ♥️♥️ DIYA - cL๏Йєr  ♥️♥️----🔴🔴
            ▄︻┻═┳一    💪💪PAPPU-BACHA💪💪   🔴🔴
            ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
 	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙG
@@ -79,9 +79,9 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92Diya
-\033[1;96mInstagram \033[1;93m: \033[1: Tricker Asad official
-\033[1;96mFacebook  \033[1;93m: \033[1: Asad Ali
+\033[1;96mAuthor  \Diya
+\033[1;96mInstagram Tricker Asad official
+\033[1;96mFacebook   Asad Ali
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Cobra109/PAKISTAN
 \033[1;91m======================================="""
 
@@ -121,10 +121,10 @@ print  """\033[1;91m
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : 03449480727
-\033[1;96mAuthor  \033[1;93m: \033[1;92Diya
-\033[1;96mInstagram \033[1;93m: \033[1;92Tricker Asad Official
-\033[1;96mFacebook  \033[1;93m: \033[1;92 Asad Ali
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Cobrq109/PAKISTAN
+\033[1;96mAuthor  Diya
+\033[1;96mInstagram Tricker Asad Official
+\033[1;96mFacebook  Asad Ali
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Cobra109/PAKISTAN
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -450,7 +450,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
+	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Diya says Thank You♥️ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
